@@ -11,3 +11,8 @@ GitHub Pages publishes `/docs` on `main`: these small redirect pages preserve th
 All screenshot galleries contain real Simulator UI with example data. The extra schedule images show an empty example week. The generated brand backdrop and all eleven original device images are included in the downloadable press kit. No live App Store badge is shown while review is pending.
 
 Release follow-up: once App Store availability is verified, replace the coming-soon text and release FAQ with a link to https://apps.apple.com/app/id6808937820. Do not claim approval before checking it.
+
+Proof's X profile is https://x.com/tryproofapp. The footer links to the real
+account, the Brand artwork gallery contains its generated header, and the
+original press kit contains `Proof/social/x-header.png`. No social embeds or
+tracking scripts are loaded on the website.
