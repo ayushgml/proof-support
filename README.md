@@ -8,9 +8,9 @@ Vercel: project `proof`, team `ayushgmls-projects`, repository root, production 
 
 GitHub Pages publishes `/docs` on `main`: these small redirect pages preserve the support/privacy/terms URLs inside the submitted build 1.0 (8). Do not configure a GitHub custom domain; proof.itsayush.dev belongs to Vercel.
 
-All screenshot galleries contain real Simulator UI with example data. The extra schedule images show an empty example week. The generated brand backdrop and all eleven original device images are included in the downloadable press kit. No live App Store badge is shown while review is pending.
+All screenshot galleries contain real Simulator UI with example data. The extra schedule images show an empty example week. The generated brand backdrop and all eleven original device images are included in the downloadable press kit. Direct App Store download links are live; public availability was verified for India and the US on 2026-10-08.
 
-Release follow-up: once App Store availability is verified, replace the coming-soon text and release FAQ with a link to https://apps.apple.com/app/id6808937820. Do not claim approval before checking it.
+The home page now has download calls to action, a live-release FAQ, a Smart App Banner identifier and accurate SoftwareApplication data. The metadata names daily accountability, goal planning and habit tracking. Website search metadata supports web discovery; it does not guarantee native App Store ranking.
 
 Proof's X profile is https://x.com/tryproofapp. The footer links to the real
 account, the Brand artwork gallery contains its generated header, and the
